@@ -1,7 +1,7 @@
 # C247-UCLA
 Source codes of project in C247 class ``Neural Networks and Deep Learning" in UCLA.
 
-[fig1 (1).pdf](https://github.com/kfukami/C247-UCLA/files/8195616/fig1.1.pdf)
+![fig1 (1).pdf](https://github.com/kfukami/C247-UCLA/files/8195616/fig1.1.pdf)
 
 
 # Large data sets and models 
