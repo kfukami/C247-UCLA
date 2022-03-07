@@ -1,5 +1,5 @@
 # C247-UCLA
-Source codes of project in C247 class in UCLA.
+Source codes of project in C247 class ``Neural Networks and Deep Learning" in UCLA.
 
 # Large data sets and models 
 
