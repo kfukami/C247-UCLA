@@ -1,6 +1,9 @@
 # C247-UCLA
 Source codes of project in C247 class ``Neural Networks and Deep Learning" in UCLA.
 
+[fig1 (1).pdf](https://github.com/kfukami/C247-UCLA/files/8195616/fig1.1.pdf)
+
+
 # Large data sets and models 
 
 1. ConvLSTM2D models are available on Google Drive (https://drive.google.com/drive/folders/1qe-gTlH4Mn5gA4GulPXsqSRJA4KGArNl?usp=sharing).
